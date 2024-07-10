@@ -3,7 +3,7 @@ import { MdOutlineAddIcCall } from "react-icons/md";
 import { TfiTimer } from "react-icons/tfi";
 const ServiceCard = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center mt-10 *:text-white *:flex *:gap-4 *:items-center *:justify-center *:border *:p-8 *:rounded-md *:duration-500 *:h-[150px]">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center mt-16 *:text-white *:flex *:gap-4 *:items-center *:justify-center *:border *:p-8 *:rounded-md *:duration-500 *:h-[150px]">
       <div className=" bg-[#07332F] hover:bg-[#F7A582]">
         <TfiTimer className="text-[30px]"></TfiTimer>
         <div>

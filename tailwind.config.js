@@ -21,6 +21,7 @@ module.exports = {
         darkWhite: "#F3F3F3",
         darkOrange: "#F7A582",
         paragraph: "#3B3A3A",
+        header: "#0A0808",
       },
 
       fontFamily: {
@@ -40,5 +41,6 @@ module.exports = {
         },
       },
     }),
+    require("daisyui"),
   ],
 };
