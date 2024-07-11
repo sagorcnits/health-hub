@@ -15,4 +15,8 @@
     @apply py-[10px] px-[25px] rounded-md cursor-pointer text-darkOrange hover:text-black  duration-500;
     @apply border border-darkOrange hover:bg-darkOrange;
   }
+
+  .card-effect {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
 }
